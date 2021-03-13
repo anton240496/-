@@ -27,7 +27,7 @@ FORMS += \
 
 QT += axcontainer
 
-RC_ICONS = im.ico
+
 
 
 # Default rules for deployment.
